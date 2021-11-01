@@ -21,4 +21,8 @@ The deep learning model performed supervised learning by training on the "featur
 * A list was created having only object/string types (categorical types) and the "one hot encoder" was used to create dummy variables. This process was necessary as its use meant all our features were now in numerical format, as needed prior to the neural network implementation.
 * Finally, the dataset was separated in the appropriate "y" target and "X" features as well as split into training and testing sets accordingly. Furthermore, the data feature data was scaled which altered each variable to have a mean value of zero and a standard deviation of one. This normalization process prevented variations in the size scaling between columns from over-representing influence on predictions of the target during training.
 
+## Conclusions
+
+From the analysis, it is clear the deep neural network machine learning model produced a moderately useful binary classifier in predicting whether loaning to a given applicant will produce successful results. However, the predictive capability never reached above 75% accuracy, even after added optimization tests. As such, it may be worthwhile to either try added optimization techniques for this model or to try a new supervised learning classification model altogether for AlphabetSoup's needs.
+
 ![Resources/AlphabetSoupCharity_OPTIMIZATION_v2_Accuracy.jpg](Resources/AlphabetSoupCharity_OPTIMIZATION_v2_Accuracy.jpg)
