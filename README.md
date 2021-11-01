@@ -4,3 +4,8 @@ Using knowledge of Pandas and the Scikit-Learn’s StandardScaler(), the purpose
 
 The deep learning model performed supervised learning by training on the "feature" columns from the dataset to predict a "target" column containing binary values of "0" or "1", as these numbers were indicative of whether the donation of each observation produced an unsuccessful or successful outcome, respectively. To optimize the performance and prepare it for the neural network model, the data required significant preprocessing. Following this, the data was compiled, trained, and the results were evaluated. The details and results of this process are described further below.
 
+![Resources/deliverable1_1.jpg](Resources/deliverable1_1.jpg)
+![Resources/deliverable1_2.jpg](Resources/deliverable1_2.jpg)
+![Resources/deliverable2_1.jpg](Resources/deliverable2_1.jpg)
+![Resources/deliverable2_2.jpg](Resources/deliverable2_2.jpg)
+![Resources/deliverable2_3.jpg](Resources/deliverable2_3.jpg)
