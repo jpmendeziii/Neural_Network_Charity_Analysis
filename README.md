@@ -9,3 +9,6 @@ The deep learning model performed supervised learning by training on the "featur
 ![Resources/deliverable2_1.jpg](Resources/deliverable2_1.jpg)
 ![Resources/deliverable2_2.jpg](Resources/deliverable2_2.jpg)
 ![Resources/deliverable2_3.jpg](Resources/deliverable2_3.jpg)
+
+
+![Resources/AlphabetSoupCharity_OPTIMIZATION_v2_Accuracy.jpg](Resources/AlphabetSoupCharity_OPTIMIZATION_v2_Accuracy.jpg)
